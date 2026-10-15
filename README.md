@@ -1,4 +1,5 @@
 # Soccer Match Intelligence & Automated Reporting System
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
 
 ## Description
 MatchLens is an end-to-end sports analytics and automated reporting engine designed to process raw soccer event data, extract tactical insights, track disciplinary and betting-risk indicators, and generate broadcast-ready narratives. Built to mirror the operational workflows of professional sports data providers (such as Stats Perform), MatchLens bridges raw JSON event streams and high-impact media storytelling.
